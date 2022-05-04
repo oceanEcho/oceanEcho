@@ -1,4 +1,4 @@
-Hi 👋 My name is Ivan Zaitsev
+Hi 👋 My name is Ivan Zaytsev
 =============================
 
 Frontend Developer
